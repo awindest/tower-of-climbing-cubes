@@ -10,6 +10,7 @@
 Yet another science experiment from Indest Labs.
 
 Recommend viewing in Visual Source Code.
+Attribution: 
 Amit did a great job on this and it helped me learn scss to boot!
 
   The CodePen:
